@@ -6,5 +6,5 @@
   Access-Control-Request-Method: GET
   Permissions-Policy: interest-cohort=()
   Content-Language: en
-  Access-Control-Allow-Origin: https://cimm-archived.ndeploys.ikuda.eu
+  Access-Control-Allow-Origin: https://cimm-archived.pages.dev
   Cross-Origin-Resource-Policy: same-site
